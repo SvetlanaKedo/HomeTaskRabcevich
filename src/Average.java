@@ -26,7 +26,7 @@ public class Average {
             summa = summa + array[i];
         }
         double average = summa / array.length;
-        System.out.printf("Среднее арифметическое элементов массива данного массива равно %.2f ", average);
+        System.out.printf("Среднее арифметическое элементов массива данного массива составит %.2f ", average);
     }
 }
 
